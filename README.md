@@ -1,5 +1,6 @@
-
-<h1 >Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Vrishank</h1>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+==========================================================================================================
+<h1 >Hi , I'm Vrishank</h1>
 <h3 >A full stack developer at UT Austin</h3>
 
 I have a passion for exploring new technologies and developing solutions to complex problems. I have a strong background in both engineering and data analysis, and I am skilled in a wide range of tools and technologies.
