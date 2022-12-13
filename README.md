@@ -10,7 +10,9 @@ I have a passion for exploring new technologies and developing solutions to comp
 *   ✉️  You can contact me at [vrishank@utexas.edu](mailto:vrishank@utexas.edu)
 *   🧠  I'm learning Solidity and smart contracts
 *   🤝  I'm open to collaborating on anything! Shoot me an idea and I'm happy to discuss it further
-*   ⚡  I'm a Marvel and DC fanatic! Go ahead and give me your most controversial opinion about it :)### Skills 
+*   ⚡  I'm a Marvel and DC fanatic! Go ahead and give me your most controversial opinion about it :)
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
