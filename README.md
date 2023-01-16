@@ -12,7 +12,7 @@ In my most recent role as a product engineer, I was responsible for prototyping 
 *   ✉️  You can contact me at [vrishank@utexas.edu](mailto:vrishank@utexas.edu)
 *   🧠  I'm learning Solidity and smart contracts
 *   🤝  I'm open to collaborating on anything! Shoot me an idea and I'm happy to discuss it further
-*   ⚡  I'm a Marvel and DC fanatic! Go ahead and give me your most controversial opinion about it :)
+*   ⚡  I'm a Marvel and DC fanatic! Go ahead and give me your most controversial opinion about them :)
 
 ### Skills 
 <p align="left">
