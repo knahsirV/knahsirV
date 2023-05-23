@@ -30,8 +30,8 @@ class About(Me):
           'Building applications adored by many'
         ]
 ```
-<span>![](https://github-readme-stats.vercel.app/api?username=knahsirV&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<span/>
-<span>![](https://github-readme-streak-stats.herokuapp.com/?user=knahsirV&theme=material-palenight&hide_border=true)<span/>
+![](https://github-readme-stats.vercel.app/api?username=knahsirV&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=knahsirV&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
     
 <!--     # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=knahsirV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
