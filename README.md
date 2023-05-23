@@ -26,8 +26,9 @@ class About(Me):
     def get_future_goals() -> List:
         return [
           'Contribute to open source.',
-          'Gain more knowledge in the fields of ML & AI, Cloud Computing, and Computational Ethics',
-          'Building applications adored by many'
+          'Build applications adored by many'
+          '''Gain more knowledge in the fields of ML & AI, Cloud Computing, 
+             and Computational Ethics''',
         ]
 ```
 <!-- ![](https://github-readme-stats.vercel.app/api?username=knahsirV&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)
