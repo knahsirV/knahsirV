@@ -26,7 +26,7 @@ class About(Me):
     def get_future_goals() -> List:
         return [
           'Contribute to open source.',
-          'Gain more knowledge in the fielf of ML and AI',
+          'Gain more knowledge in the fields of ML & AI, Cloud Computing, and Computational Ethics',
           'Building applications adored by many'
         ]
 ```
