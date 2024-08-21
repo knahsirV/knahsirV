@@ -8,7 +8,7 @@ class About(Me):
         return {
           'Student_Of' : 'UT Austin'
           'Located' : 'Austin, TX'
-          'Current-Project': 'Comment Sense: Youtube Comment Sentiment Analysis'
+          'Current-Project': 'Raindrop Jobs'
           'Reach_Out_To_Me': True
         }
         
