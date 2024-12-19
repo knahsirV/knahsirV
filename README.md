@@ -4,8 +4,8 @@ import Vrishank_Viswanath;
 
 class About(Me):
 
-    def __init__(self) -> Dict:
-        return {
+    def __init__(self) -> None:
+        self.me = {
           'Student_Of' : 'UT Austin'
           'Located' : 'Austin, TX'
           'Current-Project': 'Raindrop Jobs'
@@ -26,9 +26,7 @@ class About(Me):
     def get_future_goals() -> List:
         return [
           'Contribute to open source.',
-          'Build applications adored by many'
-          '''Gain more knowledge in the fields of ML & AI,
-             Cloud Computing, and Computational Ethics''',
+          'Build things that make life easier '
         ]
 ```
 <!-- ![](https://github-readme-stats.vercel.app/api?username=knahsirV&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)
